@@ -181,6 +181,8 @@ footer{
     border-radius: 5px;
     background-color: #FFF;
     border: 0px;
+    width: 100%;
+    
 
 }
 .footer-section-title{
@@ -188,3 +190,5 @@ footer{
     text-align: left;
     font-size: 35px;
     font-weight: 700;
+
+}
